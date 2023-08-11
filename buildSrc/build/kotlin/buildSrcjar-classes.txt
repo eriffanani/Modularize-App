@@ -1,0 +1,1 @@
+/Users/eriffanani/Documents/Android Project/Experiment/Modularize/buildSrc/build/classes/kotlin/main/Core.class:/Users/eriffanani/Documents/Android Project/Experiment/Modularize/buildSrc/build/classes/kotlin/main/MyLibs.class:/Users/eriffanani/Documents/Android Project/Experiment/Modularize/buildSrc/build/classes/kotlin/main/Versions.class
