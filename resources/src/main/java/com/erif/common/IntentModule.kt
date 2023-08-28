@@ -15,4 +15,14 @@ class IntentModule constructor(private val context: Context) {
         }
     }
 
+    fun forChatRoom(name: String) {
+        try {
+            val intent = Intent(context, Class.forName("com.erif.chatroom.$name"))
+            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            context.startActivity(intent)
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+    }
+
 }

@@ -41,7 +41,7 @@ dependencies {
     implementation(Core.constraint)
 
     // MyLibs
-    implementation(MyLibs.toastyle)
+    implementation(Other.toastyle)
 
     testImplementation(Core.jUnit)
     androidTestImplementation(Core.testJUnit)

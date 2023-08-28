@@ -20,3 +20,4 @@ rootProject.name = "Modularize"
 include(":app")
 include(":payment")
 include(":resources")
+include(":chatroom")
